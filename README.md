@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rachitrajvaishkiyar/rachitrajvaishkiyar/snake-output/snake.svg" alt="Snake animation" />
+
 
 ###
 ## 🚀 Professional Profile
@@ -68,9 +68,8 @@ A results-driven **Computer Science & Engineering student** and **Data Analyst I
 
 ## 📈 GitHub Stats & Connect with Me
 
-*   💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-*   🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-*   ✉️ **Email:** [your.email@example.com](mailto:your.email@example.com)
-
+*   💼 **LinkedIn:** www.linkedin.com/in/rachit-raj-vaishkiyar
+*   🌐 **Portfolio:** 
+*   ✉️ **Email:** Rachitr030@gmail.com
 ```text
 ⚡ "Building systems that scale, analyzing data that matters, and creating content that connects."
