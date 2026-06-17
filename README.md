@@ -69,7 +69,6 @@ A results-driven **Computer Science & Engineering student** and **Data Analyst I
 ## 📈 GitHub Stats & Connect with Me
 
 *   💼 **LinkedIn:** www.linkedin.com/in/rachit-raj-vaishkiyar
-*   🌐 **Portfolio:** 
 *   ✉️ **Email:** Rachitr030@gmail.com
 ```text
 ⚡ "Building systems that scale, analyzing data that matters, and creating content that connects."
